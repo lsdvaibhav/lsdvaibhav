@@ -20,7 +20,7 @@
 <a href="https://www.facebook.com/imthepk/">
   <img align="left" alt="vaibhav's Facebook" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/facebook.svg" />
 </a>
-<a href="https://www.youtube.com/mtechviral/">
+<a href="https://www.youtube.com/channel/UCxN7cfCOq4Bz0kWVBWdFPSQ">
   <img align="left" alt="vaibhav's Youtube" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/youtube.svg" />
 </a>
 
@@ -31,15 +31,15 @@
 
 - 🔭 I’m currently working on [Bussiness Intelligence].
 - 🌱 I’m currently learning new things about .
-- 👯 I’m looking to collaborate on [DATA SCIENCE PROJECTS](https://youtube.com/UCxN7cfCOq4Bz0kWVBWdFPSQ).
+- 👯 I’m looking to collaborate on [DATA SCIENCE PROJECTS](https://www.youtube.com/channel/UCxN7cfCOq4Bz0kWVBWdFPSQ).
 - 🤔 I’m looking for help with ML pipline building.
 - 💬 Ask me about DATA SCIENCE or any tech related stuff.
 - 📫 How to reach me: [Twitter - @lsdvaibhav](https://twitter.com/imthepk) , [Youtube - @iSunira](https://youtube.com/iSunira)
 - 😄 Pronouns: He/His
 - ⚡ Fun fact: I spend almost 12 hours learning and working on DATA SCIENCE  everyday.
 
-[![Twitter: lsdvaibhav](https://img.shields.io/twitter/follow/imthepk?style=social)](https://twitter.com/imthepk)
-[![Linkedin: lsdvaibhav](https://img.shields.io/badge/-imthepk-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/imthepk/)](https://www.linkedin.com/in/imthepk/)
+[![Twitter: lsdvaibhav](https://img.shields.io/twitter/follow/imthepk?style=social)](https://twitter.com/lsdvaibhav)
+[![Linkedin: lsdvaibhav](https://img.shields.io/badge/-imthepk-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/lsdvaibhav/)](https://www.linkedin.com/in/lsdvaibhav/)
 [![GitHub lsdvaibhav](https://img.shields.io/github/followers/lsdvaibhav?label=follow&style=social)](https://github.com/lsdvaibhav)
 
 
