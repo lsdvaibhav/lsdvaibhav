@@ -36,7 +36,7 @@
 - 💬 Ask me about DATA SCIENCE or any tech related stuff.
 - 📫 How to reach me: [Twitter - @lsdvaibhav](https://twitter.com/lsdvaibhav) , [Youtube - @iSunira](https://www.youtube.com/channel/UCxN7cfCOq4Bz0kWVBWdFPSQ)
 - 😄 Pronouns: He/His
-- ⚡ Fun fact: I spend almost 12 hours learning and working on DATA SCIENCE  everyday.
+- ⚡ Fun fact: I spend almost 5-6 hours learning and working on DATA SCIENCE  everyday.
 
 [![Twitter: lsdvaibhav](https://img.shields.io/twitter/follow/lsdvaibhav?style=social)](https://twitter.com/lsdvaibhav)
 [![Linkedin: lsdvaibhav](https://img.shields.io/badge/-lsdvaibhav-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/lsdvaibhav/)](https://www.linkedin.com/in/lsdvaibhav/)
