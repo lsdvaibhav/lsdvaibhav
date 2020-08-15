@@ -1,4 +1,4 @@
-## Hola, I'm [Vaibhav Kharatmal] (https://github.com/lsdvaibhav/)👋
+## Hola, I'm [Vaibhav Kharatmal](https://github.com/lsdvaibhav/).👋
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=lsdvaibhav&label=Views&color=blue&style=plastic" alt="lsdvaibhav" /> </p>
 
