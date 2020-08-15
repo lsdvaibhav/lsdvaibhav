@@ -30,11 +30,11 @@
 
 
 - 🔭 I’m currently working on [Bussiness Intelligence].
-- 🌱 I’m currently learning new things about .
+- 🌱 I’m currently learning new things about.
 - 👯 I’m looking to collaborate on [DATA SCIENCE PROJECTS](https://www.youtube.com/channel/UCxN7cfCOq4Bz0kWVBWdFPSQ).
-- 🤔 I’m looking for help with ML pipline building.
+- 🤔 I’m looking for help building ML pipline.
 - 💬 Ask me about DATA SCIENCE or any tech related stuff.
-- 📫 How to reach me: [Twitter - @lsdvaibhav](https://twitter.com/imthepk) , [Youtube - @iSunira](https://www.youtube.com/channel/UCxN7cfCOq4Bz0kWVBWdFPSQ)
+- 📫 How to reach me: [Twitter - @lsdvaibhav](https://twitter.com/lsdvaibhav) , [Youtube - @iSunira](https://www.youtube.com/channel/UCxN7cfCOq4Bz0kWVBWdFPSQ)
 - 😄 Pronouns: He/His
 - ⚡ Fun fact: I spend almost 12 hours learning and working on DATA SCIENCE  everyday.
 
@@ -51,7 +51,6 @@
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/java/java.png"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/cpp/cpp.png"></code>
-
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/android/android.png"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/jupyter-notebook/jupyter-notebook.png"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/flask/flask.png"></code>    
