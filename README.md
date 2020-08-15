@@ -1,7 +1,10 @@
 ## Hola, I'm [Vaibhav Kharatmal](https://github.com/lsdvaibhav/).👋
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=lsdvaibhav&label=Views&color=blue&style=plastic" alt="lsdvaibhav" /> </p>
-
+<details open>
+<summary>🤝 <b>To connect with me<b></summary>
+<p align = "center">
+  
 <a href="https://twitter.com/lsdvaibhav">
   <img align="left" alt="vaibhav's Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />
 </a>
@@ -24,6 +27,8 @@
   <img align="left" alt="vaibhav's Youtube" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/youtube.svg" />
 </a>
 
+</p>
+</details>
 <br/>
 <br/>
 
