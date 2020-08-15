@@ -38,8 +38,8 @@
 - 😄 Pronouns: He/His
 - ⚡ Fun fact: I spend almost 12 hours learning and working on DATA SCIENCE  everyday.
 
-[![Twitter: lsdvaibhav](https://img.shields.io/twitter/follow/imthepk?style=social)](https://twitter.com/lsdvaibhav)
-[![Linkedin: lsdvaibhav](https://img.shields.io/badge/-imthepk-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/lsdvaibhav/)](https://www.linkedin.com/in/lsdvaibhav/)
+[![Twitter: lsdvaibhav](https://img.shields.io/twitter/follow/lsdvaibhav?style=social)](https://twitter.com/lsdvaibhav)
+[![Linkedin: lsdvaibhav](https://img.shields.io/badge/-lsdvaibhav-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/lsdvaibhav/)](https://www.linkedin.com/in/lsdvaibhav/)
 [![GitHub lsdvaibhav](https://img.shields.io/github/followers/lsdvaibhav?label=follow&style=social)](https://github.com/lsdvaibhav)
 
 
