@@ -31,7 +31,7 @@
 
 - 🔭 I’m currently working on [Bussiness Intelligence].
 - 🌱 I’m currently learning new things about .
-- 👯 I’m looking to collaborate on [DATA SCIENCE PROJECTS](https://youtube.com/iSunira).
+- 👯 I’m looking to collaborate on [DATA SCIENCE PROJECTS](https://youtube.com/UCxN7cfCOq4Bz0kWVBWdFPSQ).
 - 🤔 I’m looking for help with ML pipline building.
 - 💬 Ask me about DATA SCIENCE or any tech related stuff.
 - 📫 How to reach me: [Twitter - @lsdvaibhav](https://twitter.com/imthepk) , [Youtube - @iSunira](https://youtube.com/iSunira)
@@ -53,7 +53,7 @@
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/cpp/cpp.png"></code>
 
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/android/android.png"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/jupyter-notebookjupyter-notebook/jupyter-notebook.png"></code>
+<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/jupyter-notebook/jupyter-notebook.png"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/flask/flask.png"></code>    
 
 <a href="https://github.com/lsdvaibhav">
