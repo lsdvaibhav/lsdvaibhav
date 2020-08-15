@@ -1,4 +1,4 @@
-## Hola, I'm [Vaibhav Kharatmal](https://pawan.live) 👋
+## Hola, I'm [Vaibhav Kharatmal] 👋
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=lsdvaibhav&label=Views&color=blue&style=plastic" alt="lsdvaibhav" /> </p>
 
@@ -17,7 +17,7 @@
 <a href="https://instagram.com/lsdvaibhav/">
   <img align="left" alt="vaibhav's Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />
 </a>
-<a href="https://www.facebook.com/imthepk/">
+<a href="https://www.facebook.com//">
   <img align="left" alt="vaibhav's Facebook" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/facebook.svg" />
 </a>
 <a href="https://www.youtube.com/channel/UCxN7cfCOq4Bz0kWVBWdFPSQ">
@@ -34,7 +34,7 @@
 - 👯 I’m looking to collaborate on [DATA SCIENCE PROJECTS](https://www.youtube.com/channel/UCxN7cfCOq4Bz0kWVBWdFPSQ).
 - 🤔 I’m looking for help with ML pipline building.
 - 💬 Ask me about DATA SCIENCE or any tech related stuff.
-- 📫 How to reach me: [Twitter - @lsdvaibhav](https://twitter.com/imthepk) , [Youtube - @iSunira](https://youtube.com/iSunira)
+- 📫 How to reach me: [Twitter - @lsdvaibhav](https://twitter.com/imthepk) , [Youtube - @iSunira](https://www.youtube.com/channel/UCxN7cfCOq4Bz0kWVBWdFPSQ)
 - 😄 Pronouns: He/His
 - ⚡ Fun fact: I spend almost 12 hours learning and working on DATA SCIENCE  everyday.
 
