@@ -58,12 +58,12 @@
 <a href="https://github.com/lsdvaibhav">
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=lsdvaibhav&theme=light&hide_langs_below=1"/>
 </a>
+
 <a href="https://github.com/lsdvaibhav">
  <img align="center" src="https://github-readme-stats.vercel.app/api?username=lsdvaibhav&show_icons=true&theme=light&line_height=27"alt="Vaibhav's github stats"/>
 </a>
 <a href="https://github.com/lsdvaibhav/ml">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=lsdvaibhav&repo=ml&theme=light"/>
-
 </a>
 <a href="https://github.com/lsdvaibhav/datascience">
  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=lsdvaibhav&repo=datascience&theme=light"/>
@@ -71,7 +71,7 @@
 
 <div align="center">
 
-### Show some ❤️ by starring some of the repositories!
+### Show some ❤️LOVE❤️ by starring some of the repositories!
 
 </div>
 
