@@ -17,7 +17,7 @@ I am a developer who is passionate about stuff like Bussiness Intelligence and D
 [<img src="https://img.shields.io/badge/facebook-%230077B5.svg?&style=for-the-badge&logo=facebook&logoColor=white" />](https://www.facebook.com/vaibhav.143.too/)
 [<img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />](https://www.linkedin.com/in/lsdvaibhav/)
 [<img src = "https://img.shields.io/badge/instagram-%23E4405F.svg?&style=for-the-badge&logo=instagram&logoColor=white">](https://www.instagram.com/lsdvaibhav/)
-[<img src = "https://img.shields.io/badge/github-%23E4405F.svg?&style=for-the-badge&logo=github&logoColor=white">](https://www.instagram.com/lsdvaibhav/)
+[<img src = "https://img.shields.io/badge/github-%230000.svg?&style=for-the-badge&logo=github&logoColor=white">](https://www.github.com/lsdvaibhav/)
 [![Visits Badge](https://badges.pufler.dev/visits/lsdvaibhav/lsdvaibhav?style=for-the-badge&color=blue)](https://github.com/lsdvaibhav/lsdvaibhav)
 ![Repos Badge](https://badges.pufler.dev/repos/lsdvaibhav?style=for-the-badge&color=red)
 
