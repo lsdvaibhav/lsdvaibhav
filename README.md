@@ -12,11 +12,13 @@ I am a developer who is passionate about stuff like Bussiness Intelligence and D
 <summary>🤝 <b>To connect with me<b></summary>
 
 <p align = "center">
-
-[<img src="https://img.shields.io/badge/twitter-%231DA1F2.svg?&style=for-the-badge&logo=twitter&logoColor=white" />](https://twitter.com/lsdvaibhav) 
-[<img src="https://img.shields.io/badge/facebook-%230077B5.svg?&style=for-the-badge&logo=facebook&logoColor=white" />](https://www.facebook.com/vaibhav.143.too/)
+ 
+[<img src="https://img.shields.io/badge/facebook-%230077B5.svg?&style=for-the-badge&logo=facebook&logoColor=white" />](https://www.facebook.com/lsdvaibhav/)
 [<img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />](https://www.linkedin.com/in/lsdvaibhav/)
+[<img src="https://img.shields.io/badge/hackerrank-%231DA1F2.svg?&style=for-the-badge&logo=twitter&logoColor=white" />](https://hackerrank.com/lsdvaibhav) 
+[<img src="https://img.shields.io/badge/kaggle-%231DA1F2.svg?&style=for-the-badge&logo=twitter&logoColor=white" />](https://kaggle.com/lsdvaibhav) 
 [<img src = "https://img.shields.io/badge/instagram-%23E4405F.svg?&style=for-the-badge&logo=instagram&logoColor=white">](https://www.instagram.com/lsdvaibhav/)
+[<img src="https://img.shields.io/badge/twitter-%231DA1F2.svg?&style=for-the-badge&logo=twitter&logoColor=white" />](https://twitter.com/lsdvaibhav)
 [<img src = "https://img.shields.io/badge/github-%23000000.svg?&style=for-the-badge&logo=github&logoColor=white">](https://www.github.com/lsdvaibhav/)
 [![Visits Badge](https://badges.pufler.dev/visits/lsdvaibhav/lsdvaibhav?style=for-the-badge&color=blue)](https://github.com/lsdvaibhav/lsdvaibhav)
 ![Repos Badge](https://badges.pufler.dev/repos/lsdvaibhav?style=for-the-badge&color=red)
