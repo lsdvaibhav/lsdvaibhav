@@ -27,17 +27,6 @@ I am a developer who is passionate about stuff like Bussiness Intelligence and D
 
 ---
 
-<details open>
- <summary> 😇 <b>My Github Stats</b>: </summary>
-
-<br>
-
-<p align = "center">
-  <img src = "https://github-readme-stats.vercel.app/api?username=lsdvaibhav&show_icons=true&theme=radical&line_height=27">
-  <img src = "https://github-readme-stats.vercel.app/api/top-langs/?username=lsdvaibhav&hide=css,html&theme=tokyonight">
-</p>
-
-</design>
 
 <details open>
 <summary>💻 <b>LANGUAGES & TOOLS :</b> :</summary>
