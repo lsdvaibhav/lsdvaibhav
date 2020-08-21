@@ -21,7 +21,7 @@ I am a developer who is passionate about stuff like Bussiness Intelligence and D
 [<img src="https://img.shields.io/badge/twitter-%231DA1F2.svg?&style=for-the-badge&logo=twitter&logoColor=white" />](https://twitter.com/lsdvaibhav)
 [<img src = "https://img.shields.io/badge/github-%23000000.svg?&style=for-the-badge&logo=github&logoColor=white">](https://www.github.com/lsdvaibhav/)
 ![Repos Badge](https://badges.pufler.dev/repos/lsdvaibhav?style=for-the-badge&color=red)
-[<p align="left"> <img src="https://komarev.com/ghpvc/?username=iampawan&label=Views&color=blue&style=plastic" alt="iampawan" /> </p>](https://github.com/lsdvaibhav/lsdvaibhav)
+[<img src="https://komarev.com/ghpvc/?username=lsdvaibhav&label=Views&color=blue&style=plastic" alt="lsdvaibhav" />](https://github.com/lsdvaibhav/lsdvaibhav)
 
 
 </p>
