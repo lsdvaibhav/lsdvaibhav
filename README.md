@@ -1,6 +1,6 @@
 ## Hi 👋 I am Vaibhav Kharatmal
 
-I am a developer who is passionate about stuff like Bussiness Intelligence and Data Science. Few tech that I enjoy working in, Python, C++, and  AWS. I play football and re-design  social media UI.
+I am a developer who is passionate about stuff like Bussiness Intelligence and Data Science. Few tech that I enjoy working in, Python, C++, and  AWS. I play football.
 
 - 👨🏽‍💻 Currently working in Data Science ,Machine learning, competitive coding, data structures and algorithms.
 - 🤝 Open for collaborations in deep learning, analytics and data science.
