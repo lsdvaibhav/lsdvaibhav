@@ -1,11 +1,11 @@
 ## Hi 👋 I am Vaibhav Kharatmal
 
-I am a developer who is passionate about stuff like Bussiness Intelligence and Data Science. Few tech that I enjoy working in, Python, C++, and  AWS.
+I am a Data Scientist @brainwonders where i like to build Bussiness Intelligence and Data Science stuff.
 
 - 👨🏽‍💻 Currently working in Data Science ,Machine learning, competitive coding, data structures and algorithms.
 - 🤝 Open for collaborations in deep learning, analytics and data science.
 - 😊 Willing to contribute in opensource projects.
-- 👍 Looking for opportunities to join as an intern/full time candidate in machine learning/deep learning research teams.
+- 👍 Looking for opportunities to join as an full time candidate in machine learning/deep learning research teams.
 
 
 <details open>
