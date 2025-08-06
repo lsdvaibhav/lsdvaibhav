@@ -1,21 +1,29 @@
 # 👋 Hi, I’m Vaibhav Kharatmal
 
-🎯 I’m a Data Scientist on a journey to become a top-tier **AI Research Scientist**, passionate about building transformative, scalable, and ethical AI systems that drive real-world impact.
+🎯 I’m a Data Scientist on a mission to become a world-class **AI Research Scientist**, passionate about building transformative, scalable, and ethical AI systems that drive real-world impact.
 
-🔬 Currently focused on:
-- Deep learning research (transformers, diffusion models, generative AI)
-- End-to-end ML systems: modeling, MLOps, scaling to production
-- Data-centric AI: using domain insights to optimize training and outcomes
-- Publishing and contributing to open-source AI research
+---
 
-💼 **Open to roles** in AI research teams (industry/academic/startup labs) with a focus on:
-- **LLMs / Generative AI**
-- **Reinforcement Learning & Decision Making**
-- **NLP, Vision, Multimodal Systems**
-- **AI Infrastructure & Scaling**
-- **Ethical and Trustworthy AI**
+## 🧠 AI & ML Research Focus
 
-🧠 My long-term goal is to contribute to high-impact research at the intersection of **science, systems, and scale** — and be part of teams pushing boundaries in **AI for Finance, Health, and Human+AI collaboration.**
+- 🌐 Specializing in **deep learning**, **transformers**, **generative models**, and **AI systems at scale**
+- ⚙️ Building end-to-end ML systems across MLOps, infrastructure, optimization, and deployment
+- 📚 Currently exploring contributions to **NLP, multimodal models, tool-use agents**, and **LLM fine-tuning**
+- 🛠️ Preparing research projects for submission to top-tier venues like NeurIPS / ICML / CVPR
+
+---
+
+## 🧭 Domain Experience
+
+I’ve worked across multiple industries applying AI & data systems:
+
+- 🚚 **Logistics**: route optimization, delay prediction, control tower automation, courier intelligence  
+- 🎓 **Education**: career recommendation engines, psychometric scoring, cognitive analytics  
+- 💸 **Finance**: payables/receivables forecasting, ERP integrations, generative reports  
+- 🛍️ **E-commerce**: price optimization, recommendation systems, user segmentation  
+- 🧾 **OCR / Document AI**: invoice parsing, ID card recognition, structured data extraction  
+
+These experiences taught me how to bridge theory ↔️ practice — aligning research with business outcomes.
 
 ---
 
@@ -35,18 +43,21 @@
 ---
 
 ## 📌 Current Projects
-- 🔍 **Generative AI Stack**: Working on a research stack for LLM fine-tuning, tool-calling, and synthetic RAG data generation.
-- 📊 **AI for Business**: Integrating predictive analytics and automation into logistics & finance workflows.
-- 🛠 **n8n + Langfuse + OTEL**: Building agent-based automation systems with logging, tracing, and monitoring.
-- 💬 **AI Chat Interfaces**: Creating intelligent interfaces powered by open-source LLMs + DuckDB + OSS tools.
+
+- 🔍 **Generative AI Stack**: building a modular LLM fine-tuning pipeline with synthetic data + tool-calling
+- 📊 **AI for Finance**: automating ledger insights and analytics pipelines for ERP teams
+- 🤖 **Control Tower Automation**: delay prediction + mitigation in logistics
+- 🛠 **n8n + Langfuse + OTEL**: observability for AI agents and tool logs
+- 💬 **AI Chat Interfaces**: powered by local LLMs + DuckDB + WebUI + OpenAPI tools
 
 ---
 
 ## 🌱 Looking to:
-- Contribute to **open-source AI research** & libraries.
-- Collaborate on **ML publications** or startup ideas.
-- Join **elite AI research teams** with compute, curiosity & freedom.
-- Work with mentors, professors, and engineers on cutting-edge research.
+
+- Contribute to **open-source AI libraries** or toolkits
+- Collaborate on **LLM / RLHF / Multimodal** research and publications
+- Join **elite AI research teams** working on scalable, real-world breakthroughs
+- Participate in moonshot AI products in **fintech, education, and applied robotics**
 
 ---
 
@@ -65,5 +76,4 @@
 <p align="center">
   ⭐️ Star some of my repositories to show support! <br>
   ![GitHub views](https://komarev.com/ghpvc/?username=lsdvaibhav&label=Profile+Views)
-  ![Repos Badge](https://badges.pufler.dev/repos/lsdvaibhav?style=for-the-badge&color=red)
-</p>
+  ![Repos Badge](https://badges.pufler.dev/repos/lsdvaibhav?style=for-the-ba)
