@@ -59,6 +59,22 @@ These experiences taught me how to bridge theory ↔️ practice — aligning re
 - Join **elite AI research teams** working on scalable, real-world breakthroughs
 - Participate in moonshot AI products in **fintech, education, and applied robotics**
 
+
+### 🌐 Recent Projects
+- 🧭 [AI Control Tower for Logistics](https://github.com/prayog-io): Delay prediction + human-in-loop agent actions
+- 📚 Career Roadmap App: Visual & AI-guided exploration for students
+- 🤖 AI Chatbot infra (OpenWebUI + Ollama + Tools + Logging) – full stack deployable
+
+---
+
+### 📈 GitHub Stats & Activity
+![GitHub views](https://komarev.com/ghpvc/?username=lsdvaibhav&label=Profile+Views) 
+![Repos Badge](https://badges.pufler.dev/repos/lsdvaibhav?style=for-the-badge)
+
+⭐ **Star some of my repositories to show support!**  
+📬 DM for collaboration or consulting.
+
+
 ---
 
 ## 🤝 Let’s Connect!
@@ -70,10 +86,3 @@ These experiences taught me how to bridge theory ↔️ practice — aligning re
   <a href="https://hackerrank.com/lsdvaibhav"><img src="https://img.shields.io/badge/hackerrank-%231DA1F2.svg?&style=for-the-badge&logo=hackerrank&logoColor=white" /></a>
   <a href="https://twitter.com/lsdvaibhav"><img src="https://img.shields.io/badge/twitter-%231DA1F2.svg?&style=for-the-badge&logo=twitter&logoColor=white" /></a>
 </p>
-
----
-
-<p align="center">
-  ⭐️ Star some of my repositories to show support! <br>
-  ![GitHub views](https://komarev.com/ghpvc/?username=lsdvaibhav&label=Profile+Views)
-  ![Repos Badge](https://badges.pufler.dev/repos/lsdvaibhav?style=for-the-ba)
