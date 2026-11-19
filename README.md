@@ -1,5 +1,9 @@
 # 👋 Hi, I’m Vaibhav Kharatmal
 
+**Data Scientist | AI/LLM Engineer**
+
+Portfolio and daily AI notes: [lsdvaibhav.github.io/lsdvaibhav](https://lsdvaibhav.github.io/lsdvaibhav/) · [kharatmal02@gmail.com](mailto:kharatmal02@gmail.com)
+
 🎯 I’m a Data Scientist on a mission to become a world-class **AI Research Scientist**, passionate about building transformative, scalable, and ethical AI systems that drive real-world impact.
 
 ---
@@ -84,5 +88,5 @@ These experiences taught me how to bridge theory ↔️ practice — aligning re
   <a href="https://github.com/lsdvaibhav"><img src="https://img.shields.io/badge/github-%23000000.svg?&style=for-the-badge&logo=github&logoColor=white"/></a>
   <a href="https://www.kaggle.com/lsdvaibhav"><img src="https://img.shields.io/badge/kaggle-%231DA1F2.svg?&style=for-the-badge&logo=kaggle&logoColor=black" /></a>
   <a href="https://hackerrank.com/lsdvaibhav"><img src="https://img.shields.io/badge/hackerrank-%231DA1F2.svg?&style=for-the-badge&logo=hackerrank&logoColor=white" /></a>
-  <a href="https://twitter.com/lsdvaibhav"><img src="https://img.shields.io/badge/twitter-%231DA1F2.svg?&style=for-the-badge&logo=twitter&logoColor=white" /></a>
+  <a href="https://x.com/LSDVaibhav"><img src="https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white" alt="X" /></a>
 </p>

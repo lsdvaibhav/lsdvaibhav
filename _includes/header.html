@@ -1,0 +1,19 @@
+<a class="skip-link" href="#content">Skip to content</a>
+<header class="site-header">
+  <div class="wrap header-inner">
+    <a class="brand" href="{{ '/' | relative_url }}">
+      <span class="brand-mark" aria-hidden="true">VK</span>
+      <span class="brand-text">Vaibhav Kharatmal</span>
+    </a>
+    <nav aria-label="Primary">
+      <ul>
+        <li><a href="{{ '/' | relative_url }}#about">About</a></li>
+        <li><a href="{{ '/' | relative_url }}#experience">Experience</a></li>
+        <li><a href="{{ '/' | relative_url }}#skills">Skills</a></li>
+        <li><a href="{{ '/' | relative_url }}#education">Education</a></li>
+        <li><a href="{{ '/notes/' | relative_url }}"{% if page.url contains '/notes' %} aria-current="page"{% endif %}>Notes</a></li>
+      </ul>
+    </nav>
+    <button type="button" class="theme-toggle" id="theme-toggle" aria-pressed="false">Toggle theme</button>
+  </div>
+</header>

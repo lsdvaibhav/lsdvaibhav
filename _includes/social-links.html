@@ -1,0 +1,6 @@
+<ul class="link-row">
+  {% for item in site.social %}
+  <li><a href="{{ item.url }}" rel="me noopener noreferrer">{{ item.name }}</a></li>
+  {% endfor %}
+  <li><a href="mailto:{{ site.email }}">{{ site.email }}</a></li>
+</ul>

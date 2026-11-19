@@ -1,0 +1,23 @@
+<article class="note-card">
+  <p class="meta">
+    <time datetime="{{ include.note.date | date: '%Y-%m-%d' }}">{{ include.note.date | date: "%-d %b %Y" }}</time>
+    {% if include.note.references and include.note.references.size > 0 %}
+    <span aria-hidden="true"> · </span>
+    <span>
+      {{ include.note.references.size }}
+      {% if include.note.references.size == 1 %}source{% else %}sources{% endif %}
+    </span>
+    {% endif %}
+  </p>
+  <h{{ include.heading | default: "3" }} class="note-title">
+    <a href="{{ include.note.url | relative_url }}">{{ include.note.title }}</a>
+  </h{{ include.heading | default: "3" }}>
+  <p>{{ include.note.summary | default: include.note.excerpt | strip_html }}</p>
+  {% if include.note.tags and include.note.tags.size > 0 %}
+  <ul class="tags" aria-label="Tags">
+    {% for tag in include.note.tags %}
+    <li>{{ tag }}</li>
+    {% endfor %}
+  </ul>
+  {% endif %}
+</article>

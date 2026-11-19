@@ -1,0 +1,22 @@
+---
+layout: default
+title: Daily AI Notes
+description: Short notes on new AI work for production LLM systems, agents, and customer-experience delivery.
+---
+<section class="hero" aria-labelledby="notes-index-title">
+  <h1 id="notes-index-title">Daily AI Notes</h1>
+  <p class="lede">Short notes on new AI work that matters for production LLM systems, agents, and customer-experience delivery. Newest first.</p>
+  <p class="more"><a href="{{ '/feed.xml' | relative_url }}">Atom feed</a> · <a href="{{ '/rss.xml' | relative_url }}">RSS feed</a></p>
+</section>
+
+<section class="section" aria-label="All notes">
+  {% if site.posts.size > 0 %}
+  <div class="note-list">
+    {% for post in site.posts %}
+      {% include note-card.html note=post heading="2" %}
+    {% endfor %}
+  </div>
+  {% else %}
+  <p>No notes yet.</p>
+  {% endif %}
+</section>
