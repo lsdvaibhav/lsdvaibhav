@@ -1,0 +1,77 @@
+name: Deploy site to GitHub Pages
+
+on:
+  push:
+    branches: [master]
+  pull_request:
+  workflow_dispatch:
+
+permissions:
+  contents: read
+
+concurrency:
+  group: pages-${{ github.ref }}
+  cancel-in-progress: true
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout
+        uses: actions/checkout@v7
+
+      - name: Setup Ruby
+        uses: ruby/setup-ruby@v1
+        with:
+          ruby-version: "3.3"
+          bundler-cache: true
+
+      - name: Build site
+        run: bundle exec jekyll build --trace
+        env:
+          JEKYLL_ENV: production
+
+      - name: Verify site
+        run: |
+          set -euo pipefail
+          test -s _site/index.html
+          test -s _site/notes/index.html
+          test -s _site/feed.xml
+          test -s _site/rss.xml
+          test -s _site/sitemap.xml
+          test -s _site/notes/2026/11/19/opensearch-memory-for-agents/index.html
+          grep -q "Data Scientist | AI/LLM Engineer" _site/index.html
+          grep -q "kharatmal02@gmail.com" _site/index.html
+          grep -q "/lsdvaibhav/assets/css/style.css" _site/index.html
+          grep -q "https://lsdvaibhav.github.io/lsdvaibhav/feed.xml" _site/feed.xml
+          grep -q "https://docs.aws.amazon.com/opensearch-service/latest/developerguide/memory.html" _site/feed.xml
+          if [ -e _site/README.html ] || [ -e _site/POSTS.html ]; then
+            echo "Repo docs were published as site pages"
+            exit 1
+          fi
+          if grep -RInE "86555|09629|\\+91" _site; then
+            echo "Phone number leaked into the published site"
+            exit 1
+          fi
+          python3 -c "import xml.etree.ElementTree as ET; ET.parse('_site/feed.xml'); ET.parse('_site/rss.xml'); ET.parse('_site/sitemap.xml')"
+
+      - name: Upload Pages artifact
+        if: github.event_name != 'pull_request'
+        uses: actions/upload-pages-artifact@v5
+        with:
+          path: _site
+
+  deploy:
+    if: github.event_name != 'pull_request' && github.ref == 'refs/heads/master'
+    needs: build
+    runs-on: ubuntu-latest
+    environment:
+      name: github-pages
+      url: ${{ steps.deployment.outputs.page_url }}
+    permissions:
+      pages: write
+      id-token: write
+    steps:
+      - name: Deploy to GitHub Pages
+        id: deployment
+        uses: actions/deploy-pages@v5

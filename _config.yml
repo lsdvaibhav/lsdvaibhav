@@ -1,0 +1,44 @@
+title: Vaibhav Kharatmal
+headline: Data Scientist | AI/LLM Engineer
+description: >-
+  Vaibhav Kharatmal is a data scientist and AI/LLM engineer focused on
+  senior AI/ML systems and customer-experience delivery.
+email: kharatmal02@gmail.com
+url: https://lsdvaibhav.github.io
+baseurl: /lsdvaibhav
+lang: en
+timezone: Asia/Kolkata
+future: true
+
+markdown: kramdown
+kramdown:
+  input: GFM
+  hard_wrap: false
+  syntax_highlighter: rouge
+
+permalink: /notes/:year/:month/:day/:title/
+
+social:
+  - name: GitHub
+    url: https://github.com/lsdvaibhav
+  - name: X
+    url: https://x.com/LSDVaibhav
+  - name: LinkedIn
+    url: https://www.linkedin.com/in/lsdvaibhav/
+
+defaults:
+  - scope:
+      path: ""
+      type: posts
+    values:
+      layout: post
+
+exclude:
+  - README.md
+  - POSTS.md
+  - Gemfile
+  - Gemfile.lock
+  - vendor
+  - .bundle
+  - .github
+  - node_modules

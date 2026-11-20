@@ -1,0 +1,19 @@
+<footer class="site-footer" id="contact">
+  <div class="wrap">
+    <h2 class="visually-hidden">Contact</h2>
+    <p class="footer-id">
+      <span class="footer-name">{{ site.title }}</span>
+      <span class="footer-role">{{ site.headline }}</span>
+    </p>
+    <ul class="footer-links">
+      {% for item in site.social %}
+      <li><a href="{{ item.url }}" rel="me noopener noreferrer">{{ item.name }}</a></li>
+      {% endfor %}
+      <li><a href="mailto:{{ site.email }}">{{ site.email }}</a></li>
+      <li><a href="{{ '/notes/' | relative_url }}">Notes</a></li>
+      <li><a href="{{ '/feed.xml' | relative_url }}">Atom</a></li>
+      <li><a href="{{ '/rss.xml' | relative_url }}">RSS</a></li>
+    </ul>
+    <p class="copyright">© {{ site.time | date: "%Y" }} {{ site.title }}</p>
+  </div>
+</footer>
